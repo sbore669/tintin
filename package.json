@@ -10,7 +10,7 @@
     "now-dev": "npm run dev"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.18.1"
   },
   "dependencies": {
     "@sanity/client": "^0.147.3",
