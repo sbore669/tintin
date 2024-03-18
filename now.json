@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "env": {
+    "SQUIZZY_WRITE_TOKEN": "@squizzy_write_token"
+  }
+}
